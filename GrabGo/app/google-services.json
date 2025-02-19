@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894640872688",
+    "project_id": "food-aa840",
+    "storage_bucket": "food-aa840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894640872688:android:19be90047e4887b94db635",
+        "android_client_info": {
+          "package_name": "com.example.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzw9HRSvArHfdkfwhW-5AHUDUt5CgRRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
