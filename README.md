@@ -13,9 +13,9 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 🔹 Admin Side:
 
-# Manage Food Items: Add, update, and delete food items from the database.
-# Update Map Locations: Modify delivery locations through the admin panel.
-# Real-Time Data Sync: Firebase updates all order details, user data, and food items instantly.
+* Manage Food Items: Add, update, and delete food items from the database.
+* Update Map Locations: Modify delivery locations through the admin panel.
+* Real-Time Data Sync: Firebase updates all order details, user data, and food items instantly.
 
 📸 Screenshots
 
@@ -34,12 +34,12 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 # Import Sample Data: Download database_firebase.json.
 
 4.Configure Firebase in Your App
-# Register Your App in Firebase: 
+* Register Your App in Firebase: 
         1.Go to Project Settings > Your Apps > Click                   Add App (Android).
         2.Enter your package name (e.g., com.yourname.grabgo).
-# Download & Add google-services.json
+* Download & Add google-services.json
         Download the google-services.json file and place it inside the /app directory.
-# Add Your SHA-1 Key
+* Add Your SHA-1 Key
         Copy the SHA-1 key and add it to Firebase Console under Android App Settings
 
 5. Add Dependencies
