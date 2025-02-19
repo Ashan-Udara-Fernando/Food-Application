@@ -2,7 +2,7 @@
 
 A fast and efficient food delivery app built with Kotlin and Firebase, featuring real-time updates, an interactive map, and an intuitive user interface.
 
-🚀 Features
+## 🚀 Features
 
 🔹 User Side:
 
