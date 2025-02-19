@@ -19,16 +19,21 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 ## 📸 Screenshots
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/5c6d1c22-a0b7-46e5-a631-1f6dd7c05469" width="200" alt="Login Page"> 
-<img src="https://github.com/user-attachments/assets/e28fd812-5ee9-4fd9-9b66-aa59ec41399a" width="200" alt="Main Menu">
- <img src="https://github.com/user-attachments/assets/44b1cb17-d72e-4d4b-ae5e-7106198a97d4" width="200" alt="Food List"> 
- <img src="https://github.com/user-attachments/assets/8fc4ee0c-927f-4fe4-b3f2-5291c6be612e" width="200" alt="Map Integration"> <br> </div>
+<div align="center"> 
+<img src="https://github.com/user-attachments/assets/d0dd3d14-e227-4996-8a0d-606b40a4934f" width="100" alt="Intro Page"> 
+<img src="https://github.com/user-attachments/assets/1d7cf637-d8fe-40cb-8d07-611684adf684" width="100" alt="Login Page">
+<img src="https://github.com/user-attachments/assets/5c6d1c22-a0b7-46e5-a631-1f6dd7c05469" width="100" alt="Register Page">  
+<img src="https://github.com/user-attachments/assets/e28fd812-5ee9-4fd9-9b66-aa59ec41399a" width="100" alt="Main Menu">
+<img src="https://github.com/user-attachments/assets/6e06ebce-ee41-4727-83e9-d2ae96a4a559" width="100" alt="Detailed Menu">
+<img src="https://github.com/user-attachments/assets/9a98bd6c-6bdc-4fee-9977-19247bdb30ad" width="100" alt="Cart Menu">
+<img src="https://github.com/user-attachments/assets/44b1cb17-d72e-4d4b-ae5e-7106198a97d4" width="100" alt="Food List"> 
+<img src="https://github.com/user-attachments/assets/8fc4ee0c-927f-4fe4-b3f2-5291c6be612e" width="100" alt="Map Integration"> <br> </div>
 
 ## 🛠 Getting Started
 
-1.Install Android Studio
-2.Clone the Repository
-3.Setup Firebase Realtime Database
+🔹Install Android Studio
+🔹Clone the Repository
+🔹Setup Firebase Realtime Database
 * Create a Firebase-ProjectVisit Firebase Console and create a new project.
 * Enable Firebase Realtime Database: In your Firebase console, go to Realtime Database > Create Database > Select "Start in test mode" > Click Enable.
 * Import Sample Data: Download database_firebase.json.
@@ -42,6 +47,6 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 * Add Your SHA-1 Key
         Copy the SHA-1 key and add it to Firebase Console under Android App Settings
 
-5. Add Dependencies
-6. Final Step
+5.Add Dependencies
+6.Final Step
 * Run the app on an Android device or emulator.
