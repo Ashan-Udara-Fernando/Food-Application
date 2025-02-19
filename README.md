@@ -1,4 +1,4 @@
-﻿🍔 Grab Go - Food Delivery App
+﻿# 🍔 Grab Go - Food Delivery App
 
 A fast and efficient food delivery app built with Kotlin and Firebase, featuring real-time updates, an interactive map, and an intuitive user interface.
 
@@ -13,7 +13,7 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 🔹 Admin Side:
 
-* Manage Food Items: Add, update, and delete food items from the database.
+## Manage Food Items: Add, update, and delete food items from the database.
 * Update Map Locations: Modify delivery locations through the admin panel.
 * Real-Time Data Sync: Firebase updates all order details, user data, and food items instantly.
 
