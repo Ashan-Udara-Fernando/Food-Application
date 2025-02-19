@@ -31,7 +31,7 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 ## 🛠 Getting Started
 
-🔹  Install Android Studio
+🔹 Install Android Studio
 🔹 Clone the Repository
 🔹 Setup Firebase Realtime Database
 * Create a Firebase-ProjectVisit Firebase Console and create a new project.
