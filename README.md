@@ -20,14 +20,14 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 ## 📸 Screenshots
 
 <div align="center"> 
-<img src="https://github.com/user-attachments/assets/d0dd3d14-e227-4996-8a0d-606b40a4934f" width="100" alt="Intro Page"> 
-<img src="https://github.com/user-attachments/assets/1d7cf637-d8fe-40cb-8d07-611684adf684" width="100" alt="Login Page">
-<img src="https://github.com/user-attachments/assets/5c6d1c22-a0b7-46e5-a631-1f6dd7c05469" width="100" alt="Register Page">  
-<img src="https://github.com/user-attachments/assets/e28fd812-5ee9-4fd9-9b66-aa59ec41399a" width="100" alt="Main Menu">
-<img src="https://github.com/user-attachments/assets/6e06ebce-ee41-4727-83e9-d2ae96a4a559" width="100" alt="Detailed Menu">
-<img src="https://github.com/user-attachments/assets/9a98bd6c-6bdc-4fee-9977-19247bdb30ad" width="100" alt="Cart Menu">
-<img src="https://github.com/user-attachments/assets/44b1cb17-d72e-4d4b-ae5e-7106198a97d4" width="100" alt="Food List"> 
-<img src="https://github.com/user-attachments/assets/8fc4ee0c-927f-4fe4-b3f2-5291c6be612e" width="100" alt="Map Integration"> <br> </div>
+<img src="https://github.com/user-attachments/assets/d0dd3d14-e227-4996-8a0d-606b40a4934f" width="150" alt="Intro Page"> 
+<img src="https://github.com/user-attachments/assets/1d7cf637-d8fe-40cb-8d07-611684adf684" width="150" alt="Login Page">
+<img src="https://github.com/user-attachments/assets/5c6d1c22-a0b7-46e5-a631-1f6dd7c05469" width="150" alt="Register Page">  
+<img src="https://github.com/user-attachments/assets/e28fd812-5ee9-4fd9-9b66-aa59ec41399a" width="150" alt="Main Menu">
+<img src="https://github.com/user-attachments/assets/6e06ebce-ee41-4727-83e9-d2ae96a4a559" width="150" alt="Detailed Menu">
+<img src="https://github.com/user-attachments/assets/9a98bd6c-6bdc-4fee-9977-19247bdb30ad" width="150" alt="Cart Menu">
+<img src="https://github.com/user-attachments/assets/44b1cb17-d72e-4d4b-ae5e-7106198a97d4" width="150" alt="Food List"> 
+<img src="https://github.com/user-attachments/assets/8fc4ee0c-927f-4fe4-b3f2-5291c6be612e" width="150" alt="Map Integration"> <br> </div>
 
 ## 🛠 Getting Started
 
