@@ -13,11 +13,11 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 🔹 Admin Side:
 
-## Manage Food Items: Add, update, and delete food items from the database.
+* Manage Food Items: Add, update, and delete food items from the database.
 * Update Map Locations: Modify delivery locations through the admin panel.
 * Real-Time Data Sync: Firebase updates all order details, user data, and food items instantly.
 
-📸 Screenshots
+### 📸 Screenshots
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/5c6d1c22-a0b7-46e5-a631-1f6dd7c05469" width="200" alt="Login Page"> 
 <img src="https://github.com/user-attachments/assets/e28fd812-5ee9-4fd9-9b66-aa59ec41399a" width="200" alt="Main Menu">
