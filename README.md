@@ -29,9 +29,9 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 1.Install Android Studio
 2.Clone the Repository
 3.Setup Firebase Realtime Database
-# Create a Firebase-ProjectVisit Firebase Console and create a new project.
-# Enable Firebase Realtime Database: In your Firebase console, go to Realtime Database > Create Database > Select "Start in test mode" > Click Enable.
-# Import Sample Data: Download database_firebase.json.
+* Create a Firebase-ProjectVisit Firebase Console and create a new project.
+* Enable Firebase Realtime Database: In your Firebase console, go to Realtime Database > Create Database > Select "Start in test mode" > Click Enable.
+* Import Sample Data: Download database_firebase.json.
 
 4.Configure Firebase in Your App
 * Register Your App in Firebase: 
