@@ -35,6 +35,13 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 🔹 Download database:https://raw.githubusercontent.com/Ashan-Udara-Fernando/Food-Application/refs/heads/main/firebase%20database.json?token=GHSAT0AAAAAAC5YTNOGK7MOJCUWQB7E3CTCZ5VHWEQ
 
+## 📸 Database View  
+
+Here is a preview of the database structure:
+
+![Database Screenshot](https://github.com/user-attachments/assets/ae717e22-9fe0-4e9d-899d-63df3d9d0bf1)
+
+
 🔹 Clone the Repository
 
 🔹 Setup Firebase Realtime Database
