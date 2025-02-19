@@ -33,6 +33,8 @@ A fast and efficient food delivery app built with Kotlin and Firebase, featuring
 
 🔹 Install Android Studio
 
+🔹 Download database:https://raw.githubusercontent.com/Ashan-Udara-Fernando/Food-Application/refs/heads/main/firebase%20database.json?token=GHSAT0AAAAAAC5YTNOGK7MOJCUWQB7E3CTCZ5VHWEQ
+
 🔹 Clone the Repository
 
 🔹 Setup Firebase Realtime Database
