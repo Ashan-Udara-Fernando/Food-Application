@@ -1,0 +1,321 @@
+{
+  "Category": [
+    {
+      "id": 0,
+      "title": "All"
+    },
+    {
+      "id": 1,
+      "title": "Drinks"
+    },
+    {
+      "id": 2,
+      "title": "Salads"
+    },
+    {
+      "id": 3,
+      "title": "ect"
+    },
+    {
+      "id": 4,
+      "title": "Hot Chocolate"
+    }
+  ],
+  "Drinks": [
+    {
+      "description": "A milkshake is a creamy, cold beverage made by blending milk, ice cream, and flavorings like chocolate, vanilla, or fruit. It’s often topped with whipped cream, syrup, or sprinkles for extra sweetness. Popular variations include chocolate milkshake, strawberry milkshake, banana milkshake, and Oreo milkshake. It’s a refreshing and indulgent treat, perfect for hot days!",
+      "extra": "extra milky",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/drinks%2FOIP.jpg?alt=media&token=3196ecca-d8de-41f0-9413-24c986e513a1"
+      ],
+      "price": 2,
+      "rating": 4.6,
+      "title": "milk shake"
+    },
+    {
+      "description": "Falooda is a rich and refreshing Indian dessert drink made with rose syrup, vermicelli, basil seeds (sabja), milk, and ice cream. It is often topped with nuts, jelly, or fruit for extra flavor and texture.",
+      "extra": "extra ice cream",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/All%20Items%2Ffaluda.jpg?alt=media&token=91c525db-07d3-4e1a-b28f-867def72f2ee"
+      ],
+      "price": 2,
+      "rating": 3.5,
+      "title": "Faluda"
+    },
+    {
+      "description": "A mojito is a refreshing Cuban cocktail made with lime, mint, sugar, soda water, and white rum. It has a zesty, minty, and slightly sweet flavor, perfect for hot weather.",
+      "extra": "can add more flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/drinks%2F859feefb459e88e3df03b4ce60390960.jpg?alt=media&token=a5b02963-65e0-4f07-ad35-7fba6d080b58"
+      ],
+      "price": 5,
+      "rating": 4.5,
+      "title": "mojitho"
+    },
+    {
+      "description": "A smoothie is a thick, creamy beverage made by blending fruits, vegetables, yogurt, milk, or juice. It’s a healthy and refreshing drink, often enjoyed as a snack or breakfast.",
+      "extra": "add flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/drinks%2FNatural-Breakfast-Smoothie-Recipe-Gluten-Free-Vegan-Instagram-No-Words.jpg?alt=media&token=5a006a4b-5679-4a24-a2ff-74925725e3fb"
+      ],
+      "price": 5,
+      "rating": 4.9,
+      "title": "smoothies"
+    },
+    {
+      "description": "A chocolate milkshake is a creamy, indulgent treat made by blending chocolate ice cream, milk, and chocolate syrup. It’s a rich, sweet beverage often topped with whipped cream, chocolate chips, or sprinkles for extra decadence",
+      "extra": "added coco",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/drinks%2FOIP%20(1).jpg?alt=media&token=0eb06768-a6a5-4414-a642-ddff26dcc03e"
+      ],
+      "price": 3,
+      "rating": 4.1,
+      "title": "Chocolate Milk Shake"
+    },
+    {
+      "description": "Juice is a liquid beverage made by extracting the natural liquid from fruits, vegetables, or herbs. It’s a refreshing drink, often enjoyed as a breakfast drink or a healthy snack.",
+      "extra": "more flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/drinks%2FOIP%20(3).jpg?alt=media&token=229b7837-876f-4e59-8d2e-6b01274615ba"
+      ],
+      "price": 3,
+      "rating": 4.2,
+      "title": "Juice"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Cake is a sweet baked dessert made from flour, sugar, eggs, butter, and leavening agents like baking powder",
+      "extra": "with extra coco",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2FR%20(2).jpg?alt=media&token=55567bcb-e954-445e-a4ce-e0902992c644"
+      ],
+      "price": 2,
+      "rating": 4.6,
+      "title": "Cake"
+    },
+    {
+      "description": "Sushi is a traditional Japanese dish made with vinegared rice, often paired with raw or cooked seafood, vegetables, and seaweed",
+      "extra": "meet types",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2FR.jpg?alt=media&token=648a78ef-a12e-4908-a012-12d494cba38d"
+      ],
+      "price": 22,
+      "rating": 4,
+      "title": "Sushi"
+    },
+    {
+      "description": "Butter chicken (Murgh Makhani) is a popular Indian dish made with marinated chicken cooked in a rich",
+      "extra": "nan roti",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2FOIP%20(4).jpg?alt=media&token=db4a8347-c155-4334-9fbc-290093965c88"
+      ],
+      "price": 20,
+      "rating": 4.1,
+      "title": "Butter Chicken"
+    },
+    {
+      "description": "A burger is a sandwich consisting of a cooked patty, usually made from beef, chicken, or plant-based alternatives",
+      "extra": "with cheese",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/burger.jpg?alt=media&token=66d665b8-a199-41dd-a81b-26cf81faab20"
+      ],
+      "price": 20,
+      "rating": 4.5,
+      "title": "burger"
+    },
+    {
+      "description": "xxx",
+      "extra": "xxx",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/juices-shutterstock_121270552.jpg?alt=media&token=baadf116-adf0-4cb8-a714-435709b471b5"
+      ],
+      "price": 40,
+      "rating": 4,
+      "title": "juice"
+    },
+    {
+      "description": "xxx",
+      "extra": "xxx",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Ice%20cream%20(4).jpg?alt=media&token=7f7dcd6f-f40c-4875-83f7-6363267dcd1c"
+      ],
+      "price": 10,
+      "rating": 4.2,
+      "title": "ice cream"
+    },
+    {
+      "description": "xxx",
+      "extra": "xxx",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/OIP2.jpg?alt=media&token=7258c8cb-33fa-4671-82f6-9b2201f9fe97"
+      ],
+      "price": 20,
+      "rating": 3,
+      "title": "fruits"
+    }
+  ],
+  "Offers": [
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/turk.jpg?alt=media&token=0b60e836-0d34-41f2-89f1-234ed1474fc6"
+      ],
+      "price": 40,
+      "title": "buy 2 and get 20% off"
+    },
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/americano.jpg?alt=media&token=2f123be3-5f59-4034-a77e-33ea114ee911"
+      ],
+      "price": 24,
+      "title": "buy 3 and get 25% off"
+    },
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/Cappoccino.jpg?alt=media&token=0e553cec-a35b-499b-932e-dac928036209"
+      ],
+      "price": 60,
+      "title": "buy 3 and get 15% off"
+    }
+  ],
+  "Products": {
+    "productID1": {
+      "category": "spicy",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/kottu-g06f0a3eb6_1920.jpg?alt=media&token=4a5c2199-d38d-45cf-91ea-526c34cd004d",
+      "name": "kottu",
+      "price": 5
+    }
+  },
+  "Salad": [
+    {
+      "description": "A chia seed salad is a nutritious and refreshing dish that combines the superfood benefits of chia seeds with fresh vegetables, fruits.",
+      "extra": "added seeds",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2Fadobestock-135313832.webp?alt=media&token=b829e6d5-fff1-4373-8172-8adf637219bb"
+      ],
+      "price": 5,
+      "rating": 4,
+      "title": "chia seed salad"
+    },
+    {
+      "description": "A fruit salad is a refreshing dish made with a mix of fresh fruits like strawberries, bananas, apples, grapes, oranges, and berries. It can be served plain or dressed with honey, yogurt, citrus juice, or a sweet syrup. Fruit salads are perfect as a healthy snack, dessert, or breakfast option.",
+      "extra": "can add syrup",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2FOIP%20(5).jpg?alt=media&token=d5770234-3bd6-4a0c-8a71-61d4f4357b66"
+      ],
+      "price": 3.5,
+      "rating": 3.8,
+      "title": "fruit salad"
+    },
+    {
+      "description": "A Meat Salad is a hearty dish that combines cooked or cured meats like grilled chicken, beef, ham, or bacon with fresh vegetables, leafy greens, and dressings. Popular variations include grilled chicken Caesar salad, Thai beef salad, and ham and cheese salad. It can be served warm or cold and is often topped with cheese, nuts, or croutons for extra flavor and texture.",
+      "extra": "can add extra meet ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2FR%20(3).jpg?alt=media&token=999f4d1e-c0a1-467d-8647-313f486faeaf"
+      ],
+      "rating": 4.8,
+      "title": "Meet salad"
+    },
+    {
+      "description": "A kiwi salad is a refreshing and vibrant dish featuring kiwi as the star ingredient, often paired with other fruits, greens, or even proteins.",
+      "extra": "extra kiwi",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2Fwp-1687143650743-500x500.jpg?alt=media&token=13fb567c-f7c9-4c99-9aee-6dfc4be71297"
+      ],
+      "price": 5.3,
+      "rating": 4.2,
+      "title": "kiwi salad"
+    },
+    {
+      "description": "A Berry Salad is a fresh and vibrant dish made with a mix of berries like strawberries, blueberries, raspberries, and blackberries. It’s often paired with leafy greens like spinach or arugula and topped with ingredients like nuts, cheese (like feta or goat cheese), and a light honey or balsamic dressing. It’s a refreshing and nutritious option for a side dish or light meal.",
+      "extra": "can add extra barrys",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2FPower-Berry-Salad2.jpg?alt=media&token=3223118c-379f-4fa4-a90a-300fa3325a93"
+      ],
+      "price": 6,
+      "rating": 4.9,
+      "title": "Barry salad"
+    },
+    {
+      "description": "A paper salad with fruit sounds like a creative or decorative dish! If you're referring to an actual edible salad, it could be a light and refreshing mix of thinly sliced (paper-thin) fruits like apples, pears, and oranges, combined with greens and a citrus dressing.",
+      "extra": "can add extra fuirts",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/Salads%2FOIP%20(5).jpg?alt=media&token=d5770234-3bd6-4a0c-8a71-61d4f4357b66"
+      ],
+      "price": 4.1,
+      "rating": 4,
+      "title": "paper and salt salad"
+    }
+  ],
+  "orders": {
+    "orderId123": {
+      "delivery_lat": 7.2906,
+      "delivery_lng": 80.6337,
+      "order_lat": 35.6762,
+      "order_lng": 139.6503,
+      "status": "On the way"
+    }
+  },
+  "totel": [
+    {
+      "description": "Fried rice is a flavorful and versatile dish made by stir-frying cooked rice with vegetables, protein (like chicken, shrimp, or tofu), and seasonings. It’s often cooked with soy sauce and can include extras like eggs, garlic, onions, peas, carrots, or green onions.",
+      "extra": "extra spicy",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/All%20Items%2Ffried%20rice.jpg?alt=media&token=4cf078e3-3cba-4eb0-8026-b2aea9cb3055"
+      ],
+      "price": 3,
+      "rating": 4,
+      "title": "Fried Rice"
+    },
+    {
+      "description": "Kottu Roti is a popular Sri Lankan street food made by stir-frying chopped flatbread (roti) with vegetables, meat (like chicken or beef), eggs, and spices. The dish is known for its bold flavors and unique texture, combining crispy and soft elements.",
+      "extra": "types of meets",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/All%20Items%2Fkottu-g06f0a3eb6_1920.jpg?alt=media&token=9d346d2d-0123-4a23-bfe7-f30b99f5888b"
+      ],
+      "price": 2.5,
+      "rating": 4.5,
+      "title": "Kottu Roti"
+    },
+    {
+      "description": "Pancakes are soft, fluffy breakfast treats made from a batter of flour, eggs, milk, sugar, and baking powder. The batter is poured onto a hot griddle or skillet and cooked until golden brown. They are usually stacked and served with a variety of toppings like butter, syrup, fresh fruits, whipped cream, or nuts.",
+      "extra": "types of syrup",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/All%20Items%2Fpancake.jpg?alt=media&token=a159b0fc-c5bd-4369-869d-458c358009de"
+      ],
+      "price": 3.5,
+      "rating": 4.1,
+      "title": "PanCake"
+    },
+    {
+      "description": "Sushi is a traditional Japanese dish consisting of vinegared rice, often paired with a variety of ingredients such as raw fish (like tuna or salmon), seaweed (nori), vegetables, and occasionally fruit. Sushi comes in different forms, with some of the most common being nigiri (slices of fish on rice), maki (rolled sushi wrapped in seaweed), and sashimi (sliced raw fish without rice).",
+      "extra": "types of meets",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2F635616953307501814-squid-ink.webp?alt=media&token=46579966-5c09-41c5-9f9b-7763b9add80a"
+      ],
+      "price": 5,
+      "rating": 3.5,
+      "title": "Sushi"
+    },
+    {
+      "description": "Pizza is a beloved dish made with a round, flat base of dough, typically topped with tomato sauce, cheese, and various toppings like meats, vegetables, and herbs. It’s then baked in an oven until the crust is golden and the cheese is melted.",
+      "extra": "types of meets",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2FFree-Food-Images-Download.jpg?alt=media&token=be784fb3-6611-4b18-9db7-47fea2423982"
+      ],
+      "price": 10,
+      "rating": 4,
+      "title": "Pizza"
+    },
+    {
+      "description": "Spaghetti is a type of long, thin pasta originating from Italy, typically made from wheat flour and water. It’s a staple in Italian cuisine and is usually served with a variety of sauces, such as tomato sauce, meatballs, pesto, or carbonara.",
+      "extra": "type of meets",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/food-aa840.firebasestorage.app/o/allmix%2FOIP%20(1).jpg?alt=media&token=fb9fddde-cc97-4d2d-aced-a3b4fab89105"
+      ],
+      "price": 10,
+      "rating": 4.5,
+      "title": "spaghetti"
+    }
+  ]
+}
